@@ -48,7 +48,7 @@ Kustom is a very powerful app on Android OS. You can create or design widget wal
 
 - Font property doesn’t have a formula button. You have to use a global font variable.
 
-- Global font variable formulas need to return as a pointer to the kustom font file. Eg.
+- Global font variable formulas need to return as a pointer to the kustom font file.
 
       kfile://org.kustom.provider/fonts/Roboto-Black.ttf
       kfile://org.kustom.provider/fonts/Roboto-Bold.ttf
