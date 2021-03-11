@@ -80,4 +80,6 @@ Kustom is a very powerful app on Android OS. You can create or design widget wal
 
   ![Concatenating](https://s3.imgcdn.dev/IToUT.png)
   
-  
+- Roboto Condensed fonts are outdated. Show square colon instead of circle colon.
+
+  ![Roboto](https://s3.imgcdn.dev/IUvba.png)
