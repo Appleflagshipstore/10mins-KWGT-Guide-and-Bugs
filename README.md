@@ -51,6 +51,14 @@ Kustom is a very powerful app on Android OS. You can create or design widget wal
 - Global font variable formulas need to return as a pointer to the kustom font file. Eg.
 
       kfile://org.kustom.provider/fonts/Roboto-Black.ttf
+      kfile://org.kustom.provider/fonts/Roboto-Bold.ttf
+      kfile://org.kustom.provider/fonts/Roboto-Light.ttf
+      kfile://org.kustom.provider/fonts/Roboto-Medium.ttf
+      kfile://org.kustom.provider/fonts/Roboto-Regular.ttf
+      kfile://org.kustom.provider/fonts/Roboto-Thin.ttf
+      kfile://org.kustom.provider/fonts/RobotoCondensed-Bold.ttf
+      kfile://org.kustom.provider/fonts/RobotoCondensed-Light.ttf
+      kfile://org.kustom.provider/fonts/RobotoCondensed-Regular.ttf
       
   ![Global font variable formulas](https://s3.imgcdn.dev/ITg7a.png)
 
