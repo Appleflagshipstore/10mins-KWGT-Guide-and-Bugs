@@ -59,6 +59,9 @@ Kustom is a very powerful app on Android OS. You can create or design widget wal
   ![Invalid Width](https://s3.imgcdn.dev/ITqxB.png)
   
 - Symbol of Text item use the same as font property. I would change to the big T that will be match with the global text variable.\
-  [add image]
+
+  ![Text Symbol](https://s3.imgcdn.dev/ITELw.png)
+  
+  
   
   
