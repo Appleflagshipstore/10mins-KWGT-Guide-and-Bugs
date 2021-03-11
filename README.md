@@ -38,16 +38,18 @@ Kustom is a very powerful app on Android OS. You can create or design widget wal
 
 - Move items into the Overlap group, Stack group and Komponent will lose the position settings. Because it will work as padding instead of X/Y offsets.
 
-- Hard to combine string and numeric in the if() function. You have to split if() or use tc(reg).
+- Hard to combine string and numeric in the if() function. You have to split if() or use tc(reg).\
   [add image]
 
-- wg() sometimes returns an invalid numeric. You have to add + 0 at the end of function.
+- wg() sometimes returns an invalid numeric. You have to add + 0 at the end of function.\
   [add image]
 
 - wg() xpath don’t support html unclosed tag eg. <img>.
 
 - Global font variable formulas need to return as a pointer to the kustom font file. Eg.
+
       kfile://org.kustom.provider/fonts/Roboto-Black.ttf
+      
   ![Global font variable formulas](https://s3.imgcdn.dev/ITg7a.png)
 
 - Invalid Width when using Text box’s Type property as Fit Width. Width is smaller than usual.
