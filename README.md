@@ -1,5 +1,6 @@
-# 10 mins Kustom Guide for Newbie by Newbie
-# KWGT Known Limits and Known Issues
+10 mins Kustom Guide for Newbie by Newbie
+KWGT Known Limits and Known Issues
+===========================================================================
 By Sappurit (Joined Kustom universe at FEB 2021)
 
 ---
