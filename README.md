@@ -44,7 +44,7 @@ Kustom is a very powerful app on Android OS. You can create or design widget wal
 - wg() sometimes returns an invalid numeric. You have to add + 0 at the end of function.\
   [add image]
 
-- wg() xpath don’t support html unclosed tag eg. <img>.
+- wg() xpath don’t support html unclosed tag. Eg. `<img>`
 
 - Font property doesn’t have a formula button. You have to use a global font variable.
 
