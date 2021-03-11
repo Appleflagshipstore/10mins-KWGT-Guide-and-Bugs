@@ -46,6 +46,8 @@ Kustom is a very powerful app on Android OS. You can create or design widget wal
 
 - wg() xpath don’t support html unclosed tag eg. <img>.
 
+- Font property doesn’t have a formula button. You have to use a global font variable.
+
 - Global font variable formulas need to return as a pointer to the kustom font file. Eg.
 
       kfile://org.kustom.provider/fonts/Roboto-Black.ttf
@@ -55,3 +57,8 @@ Kustom is a very powerful app on Android OS. You can create or design widget wal
 - Invalid Width when using Text box’s Type property as Fit Width. Width is smaller than usual.
 
   ![Invalid Width](https://s3.imgcdn.dev/ITqxB.png)
+  
+- Symbol of Text item use the same as font property. I would change to the big T that will be match with the global text variable.\
+  [add image]
+  
+  
