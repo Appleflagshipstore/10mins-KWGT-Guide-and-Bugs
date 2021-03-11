@@ -17,7 +17,7 @@ Kustom is a very powerful app on Android OS. You can create or design widget wal
 
 - You can't rename the widget name directly. To change a widget name, you have to export the widget to a new preset and reload that preset over your current widget again.
 
-- No browse button when export preset. Manual typing is only your choice. Be careful, no overwritten warning popup dialog. It's good to export new names and reload the present of every widget. It will remember the export info. But sometimes it shows the other widget info.
+- No browse button when export a preset. Manual typing is only your choice. Be careful! no overwritten warning popup dialog. It's good to export a new unique name and reload that preset for each widget on your home screen. This way it will remember the export info. But sometimes it still shows the other widget info.
 
   ![No browse button](https://s3.imgcdn.dev/ITXCL.png)
 
