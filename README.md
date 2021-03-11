@@ -70,6 +70,8 @@ Kustom is a very powerful app on Android OS. You can create or design widget wal
 
   ![Text Symbol](https://s3.imgcdn.dev/ITELw.png)
   
-  
+- No NumToStr() and StrToNum() functions. There is a problem when concatenating numeric strings with numeric. Especially in if() function. The easy way is split the if() function.
+
+  ![Concatenating](https://s3.imgcdn.dev/IToUT.png)
   
   
