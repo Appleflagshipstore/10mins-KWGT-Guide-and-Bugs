@@ -24,7 +24,7 @@ Kustom is a very powerful app on Android OS. You can create or design widget wal
 - Some properties, Edit button is hidden in the three dots (⋮) button. But you have to select the item first.
 
 - Before loading a preset, You have to resize to match with the exported preset.
-- 
+
 - Before creating a new preset, You have to resize first. It will remember the dimension.
 
   ![Resize First](https://s3.imgcdn.dev/IUhsy.png)
