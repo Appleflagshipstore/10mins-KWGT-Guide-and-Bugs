@@ -26,7 +26,7 @@ Kustom is a very powerful app on Android OS. You can create or design widget wal
 
 ## Kustom Known Limits and Known Issues
 
-- Global variables have a limit of 8 characters.
+- Global variable names have a limit of 8 characters.
 
 - You can't rename global variable names.
 
