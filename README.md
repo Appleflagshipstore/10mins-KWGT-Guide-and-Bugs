@@ -70,7 +70,7 @@ Kustom is a very powerful app on Android OS. You can create or design widget wal
   
 - To add a font to exported preset, just add a blank text box. The other ways is add a global font variable but users can modify it.
 
-  ![IUAlt.png](https://s3.imgcdn.dev/IUAlt.png)
+  ![Add Font](https://s3.imgcdn.dev/IUOfT.png)
 
 - Invalid Width when using Text box’s Type property as Fit Width. Width is smaller than usual.
 
