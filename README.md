@@ -40,7 +40,7 @@ Kustom is a very powerful app on Android OS. You can create or design widget wal
 
 - Move items into the Overlap group, Stack group and Komponent will lose the position settings. Because it will work as padding instead of X/Y offsets.
 
-- wg() sometimes returns an invalid numeric. You have to add + 0 at the end of function.\
+- Be careful! wg() sometimes returns an invalid numeric. You have to add + 0 at the end of function.\
   [add image]
 
 - wg() xpath don’t support html unclosed tag. Eg. `<img>`
