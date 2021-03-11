@@ -36,10 +36,9 @@ Kustom is a very powerful app on Android OS. You can create or design widget wal
 
 - You can use the same global formula variable only 4 times in a formula.
 
-- Move items into the Overlap group, Stack group and Komponent will lose the position settings. Because it will work as padding instead of X/Y offsets.
+  ![Global Formula Variable](https://s3.imgcdn.dev/ITpVD.png)
 
-- Hard to combine string and numeric in the if() function. You have to split if() or use tc(reg).\
-  [add image]
+- Move items into the Overlap group, Stack group and Komponent will lose the position settings. Because it will work as padding instead of X/Y offsets.
 
 - wg() sometimes returns an invalid numeric. You have to add + 0 at the end of function.\
   [add image]
@@ -70,7 +69,7 @@ Kustom is a very powerful app on Android OS. You can create or design widget wal
 
   ![Text Symbol](https://s3.imgcdn.dev/ITELw.png)
   
-- No NumToStr() and StrToNum() functions. There is a problem when concatenating numeric strings with numeric. Especially in if() function. The easy way is split the if() function.
+- No NumToStr() and StrToNum() functions. There is a problem when concatenating numeric strings with numeric. Especially in if() function. The easy way is split the if() function or use tc(reg).
 
   ![Concatenating](https://s3.imgcdn.dev/IToUT.png)
   
