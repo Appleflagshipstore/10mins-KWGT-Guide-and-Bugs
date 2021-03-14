@@ -87,3 +87,7 @@ Kustom is a very powerful app on Android OS. You can create or design widget wal
 - Roboto Condensed fonts are outdated. Show square colon instead of circle colon.
 
   ![Roboto](https://s3.imgcdn.dev/IUvba.png)
+  
+- Overlap Group, Komponent strange behaviors : padding = offset x 2 and invert clip mask. This bug is 4 years long. To overcome this issue, we have to stay with B.Padding and R.Padding and then rotate a whole overlap group when we want to clip the opposite.
+
+  ![Clip Mask](https://s3.imgcdn.dev/IaBXd.png)
