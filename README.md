@@ -92,6 +92,6 @@ Kustom is a very powerful app on Android OS. You can create or design widget wal
 
   ![Roboto](https://s3.imgcdn.dev/IUvba.png)
   
-- Invert Clip Mask bug in Overlap Group and Komponent. This bug is 4 years long. To overcome this issue, we have to stay with B.Padding and R.Padding only. Rotate a whole Overlap Group when we want to clip the opposite.
+- Invert Clip Mask bug in Overlap Group and Komponent. This bug is 4 years long. To overcome this issue, we have to stay with B.Padding and R.Padding only. Rotate a whole Overlap Group when we want to clip the opposite. For PNG image, we have to rotate image first then rotate the Overlap Group.
 
   ![Clip Mask](https://s3.imgcdn.dev/I1EPO.png)
